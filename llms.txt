@@ -17,9 +17,11 @@
 | **Title** | Millonario Solitario |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | May 17, 2026 |
+| **Created On** | May 17, 2026 |
+| **Released On** | May 17, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/millonario-solitario/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Millonario Solitario](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/millonario-solitario/) |
+| **Get License** | [Get License For Millonario Solitario](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=l9UJsPQOMWk?https://imabusayed.github.io/millonario-solitario/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -49,6 +51,7 @@
 ## 🔗 Song Links
 
 - [Telegram](https://t.me/AbuSayedMusic/1544)
+- [YouTube](https://www.youtube.com/watch?v=l9UJsPQOMWk)
 
 ---
 
