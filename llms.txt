@@ -17,9 +17,9 @@
 | **Title** | Millonario Solitario |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | May 17, 2026 |
-| **Song Page** | Pending |
+| **Song Page** | [Open Song Page](https://imabusayed.github.io/millonario-solitario/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Millonario Solitario](https://music.abusayed.com.bd/Licensing/) |
+| **Get License** | [License this song: Millonario Solitario](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/millonario-solitario/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
